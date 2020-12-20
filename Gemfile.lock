@@ -1,8 +1,3 @@
-PATH
-  remote: .
-  specs:
-    forty_jekyll_theme (1.2)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -66,9 +61,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  bundler (~> 2.1)
-  forty_jekyll_theme!
-  jekyll (~> 4.0)
+  jekyll (~> 4.2)
 
 BUNDLED WITH
    2.1.4
